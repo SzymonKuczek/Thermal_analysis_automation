@@ -19,7 +19,6 @@ venv/
 *.out
 *.synctex.gz
 *.toc
-*.pdf
 
 # --- IDE i System ---
 .idea/
